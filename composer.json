@@ -1,5 +1,5 @@
 {
-    "name": "abc/packagetest",
+    "name": "abcljl/packagetest",
     "description": "test",
     "authors": [
         {
@@ -9,6 +9,6 @@
     ],
     "require": {},
     "psr-4": {
-      "Abc\\Packagetest\\": "src/"
-    }
+      "Abcljl\\Packagetest\\": "src/"
+    },
 }

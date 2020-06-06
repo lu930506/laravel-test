@@ -1,6 +1,6 @@
 <?php
 
-namespace Abc\Packagetest;
+namespace Abcljl\Packagetest;
 
 use Illuminate\Support\ServiceProvider;
 
