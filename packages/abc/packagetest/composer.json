@@ -1,0 +1,14 @@
+{
+    "name": "abc/packagetest",
+    "description": "test",
+    "authors": [
+        {
+            "name": "lu930506",
+            "email": "1160121683@qq.com"
+        }
+    ],
+    "require": {},
+    "psr-4": {
+      "Abc\\Packagetest\\": "src/"
+    },
+}
