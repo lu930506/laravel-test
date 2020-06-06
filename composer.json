@@ -10,5 +10,5 @@
     "require": {},
     "psr-4": {
       "Abcljl\\Packagetest\\": "src/"
-    },
+    }
 }
